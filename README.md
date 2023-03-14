@@ -6,4 +6,4 @@ Peralta Vigil Fernando Yael
 
 Profesor: Mario Garcia Valdez
 
-[LINK][./ParadigmaOO/README.md]
+[LINK](./ParadigmaOO/README.md)
