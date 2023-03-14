@@ -1,4 +1,7 @@
 # ProgOO
-####### Tarea
 
-Tarea
+Peralta Vigil Fernando Yael
+
+22211632
+
+Profesor: Mario Garcia Valdez
