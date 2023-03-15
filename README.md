@@ -6,5 +6,5 @@ Peralta Vigil Fernando Yael
 
 Profesor: Mario Garcia Valdez
 
-[Logo del Tec] (https://www.tijuana.tecnm.mx/wp-content/themes/tecnm/images/logo_TECT.png)
+![Logo del Tec] (https://www.tijuana.tecnm.mx/wp-content/themes/tecnm/images/logo_TECT.png)
 
