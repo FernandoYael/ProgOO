@@ -24,4 +24,6 @@
 
 #### 22211632
 
-[Ejercicio Markdown](./ParadigmaOO/README.md)
+***
+Actividades del Curso
+1. [Ejercicio Markdown](./ParadigmaOO/README.md)
