@@ -38,15 +38,21 @@ La herencia se trata de dos objetos, el padre y el hijo, estos tienen el mismo c
 
 ## Resumen de UML
 
-
+UML o Lenguaje de Modelado Unificado es un modelo utilizado para visualizar, construir y documentar el como funciona un programa a través de clases y las interacciones de las mismas entre sí. Fue creado por Grady Booch, James Rumbaugh y Ivar Hjalmar Jacobson
+Tiene tres principales sistemas que utiliza
+1. Modelo funcional: centrado en la funcionalidad a través de la visión del usuario
+2.Modelo de Objetos: representa la estructura desde la base de la programación orientada a objetos a través de atributos, objetos y asociaciones.
+3.Modelo dinámico: Describen el comportamiento del sistema a través de distintos diagramas descriptivos por los cuales se subdividen las distintas partes del sistema.
+En la actualidad UML ha envejecido no precisamente bien, pero este si fue utilizado por lo menos por empresas de gran calibre relacionadas con la tecnología; véase Microsoft, Apple o IBM.
+Entre las herramientas más populares para la creación de diagramas UML, se encuentra draw.io y Microsoft Visio.
 
 ## Propuesta de una maquina
 
-
+La maquina sera una pequeña maquina la cual puede seleccionar un determinado producto, y para eso estos tienen su precio, la maquina solamente aceptara monedas de valores enteros (Sin centavos) y billetes, y obtiene el precio al momento de que esta empiece a funcionar
 
 #### UML
 
-[UML]
+[UML]()
 
 ***
 
@@ -57,7 +63,3 @@ La herencia se trata de dos objetos, el padre y el hijo, estos tienen el mismo c
 *[Encapsulamiento](https://profile.es/blog/que-es-la-programacion-orientada-a-objetos/)
 
 *[Historia de POO](http://sis324loo.blogspot.com/2008/09/historia-de-los-lenguajes-de_29.html)
-
-*[]()
-
-*[]()
