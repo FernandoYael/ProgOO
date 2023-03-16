@@ -43,7 +43,11 @@ Propuesta de una maquina
 Referencias
 
 *[Paradigma](https://profile.es/blog/que-son-los-paradigmas-de-programacion/)
+
 *[Encapsulamiento](https://profile.es/blog/que-es-la-programacion-orientada-a-objetos/)
+
 *[Historia de POO](http://sis324loo.blogspot.com/2008/09/historia-de-los-lenguajes-de_29.html)
+
 *[]()
+
 *[]()
