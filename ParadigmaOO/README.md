@@ -29,6 +29,7 @@ Este codigo esta encapsulado
 
 Herencia
 
+La herencia se trata de dos objetos, el padre y el hijo, estos tienen el mismo comportamiento o las mismas propiedades pero el hijo tiene mas propiedades o menos de las que tiene el padre, pero que siguen teniendo el requisito para estar relacionados
 
 
 Diagrama de Clases
