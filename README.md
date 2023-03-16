@@ -1,21 +1,21 @@
 # ProgOO
 
-Tecnologico Nacional de Mexico
+## Tecnologico Nacional de Mexico
 
-Instituto Tecnologico de Tijuana
+### Instituto Tecnologico de Tijuana
 
-Subdireccion Academica
+### Subdireccion Academica
 
-Departamento de Sistemas y Computacion
+#### Departamento de Sistemas y Computacion
 
-Periodo: Enero-Junio 2023
+#### Periodo: Enero-Junio 2023
 
-Programacion Orientada a Objetos
+### Programacion Orientada a Objetos
 
-Profesor: Mario Garcia Valdez
+### Profesor: Mario Garcia Valdez
 
-Peralta Vigil Fernando Yael
+#### Peralta Vigil Fernando Yael
 
-22211632
+#### 22211632
 
 [Ejercicio Markdown](./ParadigmaOO/README.md)
