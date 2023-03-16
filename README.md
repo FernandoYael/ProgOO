@@ -1,5 +1,7 @@
 # ProgOO
 
+![Logo ITT](https://www.tijuana.tecnm.mx/wp-content/uploads/2022/03/TecNM-ITT-sgc-2018-color-scaled-e1646127126124-1568x479.jpg)
+
 ## Tecnologico Nacional de Mexico
 
 ### Instituto Tecnologico de Tijuana
