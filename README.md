@@ -6,9 +6,13 @@
 
 ### Subdireccion Academica
 
+***
+
 #### Departamento de Sistemas y Computacion
 
 #### Periodo: Enero-Junio 2023
+
+***
 
 ### Programacion Orientada a Objetos
 
